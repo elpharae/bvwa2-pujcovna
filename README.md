@@ -6,7 +6,7 @@
 * postgres? mysql? oracle sql? idk
 
 ## tools
-* Composer
+* Composer v2.6.5
   * https://getcomposer.org/download/
-* Nodejs/npm
+* Nodejs v18.18.2
   * https://nodejs.org/en/download
