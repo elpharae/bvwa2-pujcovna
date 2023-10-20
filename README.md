@@ -1,6 +1,11 @@
 # Pujcovna
 
-## Pouziva
+## libraries/frameworks
+* symphony
+* react
+* postgres? mysql? oracle sql? idk
+
+## tools
 * Composer
   * https://getcomposer.org/download/
 * Nodejs/npm
