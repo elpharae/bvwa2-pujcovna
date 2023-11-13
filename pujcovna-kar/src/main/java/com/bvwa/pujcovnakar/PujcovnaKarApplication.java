@@ -1,13 +1,13 @@
-package pujcovna.pujc_backend;
+package com.bvwa.pujcovnakar;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PujcBackendApplication {
+public class PujcovnaKarApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PujcBackendApplication.class, args);
+		SpringApplication.run(PujcovnaKarApplication.class, args);
 	}
 
 }

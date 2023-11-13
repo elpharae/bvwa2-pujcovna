@@ -1,10 +1,10 @@
-package pujcovna.pujc_backend;
+package com.bvwa.pujcovnakar;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PujcBackendApplicationTests {
+class PujcovnaKarApplicationTests {
 
 	@Test
 	void contextLoads() {
